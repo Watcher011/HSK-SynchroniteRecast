@@ -41,7 +41,7 @@
 					<severity>1</severity>
 				</li>
 				<li Class="IngestionOutcomeDoer_OffsetPsyfocus">
-					<offset>0.95</offset>
+					<offset>1</offset>
 				</li>
 			</outcomeDoers>
 		</ingestible>
